@@ -81,11 +81,9 @@ Here's what is needed to assemble a full controller:
 
 ### OFOF1
 
-x9 16mm Flanged Button Head Screw
-https://www.mcmaster.com/90909A724/
+x9 19mm tall, 6 mm wide (3/4 by 1/4) Head Screw
 
-x9 Narrow Base Weld Nut
-https://www.mcmaster.com/90594A320/
+x9 8 mm tall, 6 mm wide (1/4 by 5/16) Weld Nut
 
 x20 O-ring (not needed if using a 3mm thick acrylic/MDF top panel)
 https://www.mcmaster.com/9452K75/
@@ -100,4 +98,10 @@ https://www.mcmaster.com/90594A320/
 
 ## Additional info
 
-If you wan to know more or discuss these designs, DM on discord at bjartskular1#6913 or join my server at https://discord.gg/9wBaMWgJkv
+If you want to know more or discuss these designs, DM on discord at bjartskular1#6913 or join my server at https://discord.gg/9wBaMWgJkv
+
+## Changes in this fork
+
+The designs in this fork have been modified to accomodate 1/4 wide, 3/4 tall screws and corresponding weld nuts, which I've found easier to get
+a hold of. This results in a taller build (a couple of milimeters taller). The modified designs are the bottom panel and the 17 mm acryllic sidewall,
+found in the Sidewalls directory.
